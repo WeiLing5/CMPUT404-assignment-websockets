@@ -57,3 +57,13 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Cheng Yao Hu
+* Ning Wei Xu
+
+
+Sources
+============
+
+http://stackoverflow.com/questions/5092808/how-do-i-randomly-generate-html-hex-color-codes-using-javascript</br>
+https://github.com/abramhindle/WebSocketsExamples</br>
+
